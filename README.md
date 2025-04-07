@@ -26,7 +26,7 @@ We perform:
 1. **Cross-validation** over a grid of L1 penalty strengths to pick the best penalty for logistic regression.
 2. **Top-5 variable selection** for the non-aggregate variables subset.
 3. **Optional aggregator step**: The top 5 variables combined with aggregate variable columns.
-
+(add tips for reducing run-time, also trade-offs)
 
 ## Requirements and Setup
 - **Python** 3.8+  ????
